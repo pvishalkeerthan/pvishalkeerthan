@@ -1,16 +1,16 @@
 ![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 <h1 align="center">Hi 👋, I'm Vishal Keerthan Parankusham</h1>
-<h3 align="center">Passionate about MERN stack development</h3>
+<h3 align="center">Passionate about Web development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cca38a6f71fdaedd9245dc7b09e539f81927e5157938abb6b4acbf1f6802a2b5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvishalkeerthan&label=Profile%20views&color=0e75b6&style=flat" alt="pvishalkeerthan" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Next.js**
+- 🌱 I’m currently learning **Machine Learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/pvishalkeerthan?tab=repositories](https://github.com/pvishalkeerthan?tab=repositories)
 
-- 💬 Ask me about **MERN Stack and DSA**
+- 💬 Ask me about **Web(MERN,NEXT) and DSA**
 
 - 📫 How to reach me **p.vishalkeerthan@gmail.com**
 
