@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pvishalkeerthan?tab=repositories](https://github.com/pvishalkeerthan?tab=repositories)
 
-- 💬 Ask me about **Web(MERN,NEXT) and DSA**
+- 💬 Ask me about **Web (MERN,NEXT) and DSA**
 
-- 📫 How to reach me **p.vishalkeerthan@gmail.com**
+- 📫 Reach me at : **p.vishalkeerthan@gmail.com**
 
-- ⚡ Fun fact **I enjoy building cool things with code**
+- ⚡ Fun fact : **I enjoy building cool things with code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
