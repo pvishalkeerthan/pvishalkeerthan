@@ -57,7 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvishalkeerthan&theme=dark&hide_border=false" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pvishalkeerthan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pvishalkeerthan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvishalkeerthan&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pvishalkeerthan&theme=dark&hide_border=false&layout=compact" />
 </p>
